@@ -4,10 +4,13 @@ text-align: center;
 }
 
 h2 {
-font-size: 40px;
+font-size: 35px;
 text-align: center;
 }
 
+body {
+    background-color: bisque;
+}
 .column1 {
 text-align: center;
 float: left;
@@ -15,6 +18,9 @@ padding: 5px;
 margin: auto;
 background-color: aqua;
 width: 31%;
+height:600px;
+border-style: dashed;
+display: block;
 }
 
 .column2 {
@@ -24,20 +30,31 @@ padding: 5px;
 margin: auto;
 width: 31%;
 background-color: brown;
+height: 600px;
+border-style: dashed;
+display: block;
 }
 
 .column3 {
 text-align: center;
-float: right;
+float: left;
 padding: 5px;
 margin: auto;
-width: 32%;
+width: 31%;
 background-color: blue;
+height: 600px;
+border-style: dashed;
+display: block;
 }
 
 .column4 {
     text-align: center;
     float: left;
     padding: 5px;
-    width: 30%;
+    margin: auto;
+    width: 31%;
+    background-color: blue;
+    height: 600px;
+    border-style: dashed;
+    display: block;
 }
