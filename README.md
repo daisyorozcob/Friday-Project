@@ -2,7 +2,7 @@
 
 #### Daisy Orozco Bautista
 
-#### A project about myself containing an about me section, hobbies, backgrounf, adn current projects.
+#### A project about myself containing an about me section, hobbies, backgrounf, and current projects.
 
 ## Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-A Webpage that informs the user about creator(Myself) of the page. In the webpage there is an About Me section, Background section, Hobbies section, Previous Projects section, and a Fun Fact Section. The Webpage was made using HTML, CSS, and GitHub.
+A Webpage that informs the user about creator of the page. In this webpage there is an About Me section, Background section, Hobbies section, Previous Projects section, and a Fun Fact Section. The Webpage was made using HTML, CSS, and GitHub.
 
 ## Setup/Installation Requirements
 
