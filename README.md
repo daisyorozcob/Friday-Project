@@ -17,10 +17,10 @@ A Webpage that informs the user about creator of the page. In this webpage there
 
 ## Setup/Installation Requirements
 
-* Copy this link https://github.com/daisyorozcob/Friday-Project.git
+* Copy this link https://github.com/daisyorozcob/Friday-Project/tree/gh-pages
 * Open Gitbash or Terminal
-* Put this command Cd ~ Desktop 
-* Then put "Clone https://github.com/daisyorozcob/Friday-Project.git" into desktop
+* Put this command cd ~ Desktop 
+* Then put "Clone https://github.com/daisyorozcob/Friday-Project/tree/gh-pages" into desktop
 * Once Done access will be available on Desktop
 
 
